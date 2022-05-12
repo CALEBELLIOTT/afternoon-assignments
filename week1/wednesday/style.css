@@ -1,0 +1,27 @@
+* {
+  font-family: 'Playfair Display';
+  overflow-x: hidden;
+}
+
+
+header {
+  background-color: white;
+}
+
+
+.banner-img {
+  flex-grow: inherit;
+  min-width: 100%;
+}
+
+.paragraph-block {
+  min-height: 35vh;
+  width: 100vh;
+}
+
+.thumbnail-img {
+  width: 20em;
+  height: 20em;
+  flex-grow: inherit;
+  object-fit: cover;
+}
